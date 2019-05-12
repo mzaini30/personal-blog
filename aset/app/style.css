@@ -1,0 +1,20 @@
+body {
+	padding-top: 70px;
+}
+
+.list-postingan,
+.list-postingan:hover,
+.list-postingan:active,
+.list-postingan:visited,
+.list-postingan:focus {
+	text-decoration: none;
+	color: inherit;
+}
+
+.markdown-input {
+	display: none;
+}
+
+.bawah-mepet {
+	padding-bottom: 5px;
+}
